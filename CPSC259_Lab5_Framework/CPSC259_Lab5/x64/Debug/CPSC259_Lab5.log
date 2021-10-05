@@ -1,0 +1,4 @@
+﻿  pagerank.c
+D:\CPSC259\CPSC259_Lab5_Framework\CPSC259_Lab5\pagerank.c(224,20): warning C4477: 'printf' : format string '%-5d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\CPSC259\CPSC259_Lab5_Framework\CPSC259_Lab5\pagerank.c(224,20): message : consider using '%zd' in the format string
+  CPSC259_Lab5.vcxproj -> D:\CPSC259\CPSC259_Lab5_Framework\CPSC259_Lab5\x64\Debug\CPSC259_Lab5.exe

@@ -1,0 +1,3 @@
+﻿  linkedlist.c
+D:\CPSC259\CPSC259_Lab3_Framework\CPSC259_Lab3_Framework\linkedlist.c(279): warning C4715: 'retrieve_nth': not all control paths return a value
+  CPSC259_Lab3_Framework.vcxproj -> D:\CPSC259\CPSC259_Lab3_Framework\Debug\CPSC259_Lab3_Framework.exe

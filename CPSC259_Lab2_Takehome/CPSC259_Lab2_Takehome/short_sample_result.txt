@@ -1,0 +1,12 @@
+This is the result you should observe with the short_sample.txt file:
+
+Candidate number 1 matches with a score of 14
+Candidate number 2 matches with a score of 11
+Candidate number 3 matches with a score of 9
+Candidate number 4 matches with a score of 6
+Candidate number 5 matches with a score of 10
+Candidate number 6 matches with a score of 40
+Candidate number 7 matches with a score of 16
+Candidate number 8 matches with a score of 22
+Candidate number 9 matches with a score of 15
+Candidate number 10 matches with a score of 40

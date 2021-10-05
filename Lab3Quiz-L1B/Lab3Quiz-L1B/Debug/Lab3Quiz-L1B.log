@@ -1,0 +1,5 @@
+﻿  quiz3-L1B.c
+D:\CPSC259\Lab3Quiz-L1B\Lab3Quiz-L1B\quiz3-L1B.c(42,32): warning C4047: '==': 'const char *' differs in levels of indirection from 'int'
+D:\CPSC259\Lab3Quiz-L1B\Lab3Quiz-L1B\quiz3-L1B.c(44,32): warning C4047: '==': 'const char *' differs in levels of indirection from 'int'
+D:\CPSC259\Lab3Quiz-L1B\Lab3Quiz-L1B\quiz3-L1B.c(47,33): warning C4047: '==': 'Node **' differs in levels of indirection from 'int'
+  Lab3Quiz-L1B.vcxproj -> D:\CPSC259\Lab3Quiz-L1B\Debug\Lab3Quiz-L1B.exe

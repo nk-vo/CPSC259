@@ -1,0 +1,2 @@
+D:\CPSC259\CPSC259_Lab5_Framework\CPSC259_Lab5\x64\Debug\CPSC259_Lab5.exe
+D:\CPSC259\CPSC259_Lab5_Framework\CPSC259_Lab5\x64\Debug\CPSC259_Lab5.pdb

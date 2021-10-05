@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>D:\CPSC259\CPSC259_Lab3_Framework\CPSC259_Lab3_Framework\</FILEPATH>
+      <FILENAME>linkedlist.c</FILENAME>
+      <LINE>50</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>Dereferencing NULL pointer 'head'. </DESCRIPTION>
+    <FUNCTION>create_node</FUNCTION>
+    <DECORATED>create_node</DECORATED>
+    <FUNCLINE>46</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>D:\CPSC259\CPSC259_Lab3_Framework\CPSC259_Lab3_Framework\</FILEPATH>
+        <FILENAME>linkedlist.c</FILENAME>
+        <LINE>49</LINE>
+        <COLUMN>17</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'head' may be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>D:\CPSC259\CPSC259_Lab3_Framework\CPSC259_Lab3_Framework\</FILEPATH>
+        <FILENAME>linkedlist.c</FILENAME>
+        <LINE>50</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'head' is dereferenced, but may still be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>

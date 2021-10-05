@@ -1,0 +1,3 @@
+﻿  quiz2-L1B.c
+D:\Lab2Quiz-L1B\Lab2Quiz-L1B\quiz2-L1B.c(32,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab2Quiz-L1B.vcxproj -> D:\Lab2Quiz-L1B\x64\Debug\Lab2Quiz-L1B.exe
